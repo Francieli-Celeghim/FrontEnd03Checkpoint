@@ -1,0 +1,41 @@
+main {
+  /* background-color: brown; */
+  height: calc(100vh - 70px);
+  display: grid;
+  justify-content: center;
+  align-items: center;
+  padding: 0 50px;
+  
+}
+
+.texto-about {
+  text-align: center;
+  justify-content: center;
+  margin: 0;
+  box-sizing: border-box;
+  list-style-type: none;
+  text-decoration: none;
+  scroll-behavior: smooth;
+  display: inline-block;
+  top: 50px;
+  width: 1000px;
+  font-size: 22px;
+
+}
+
+.imagem-about {
+  text-align: center;
+
+}
+
+.imagem-about img {
+  width: 300px;
+  
+  box-shadow: 5px 5px 8px 6px #0099ff;
+}
+
+h1 {
+  text-align: center;
+
+}
+

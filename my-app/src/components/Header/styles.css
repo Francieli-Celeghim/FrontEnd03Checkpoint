@@ -1,0 +1,30 @@
+header {
+  /* background: rebeccapurple; */
+  display: flex;
+  justify-content: end;
+  align-items: right;
+  height: 70px;
+  background-color: black;
+  padding: 15px 0;
+  text-align: center;
+  color: blanchedalmond;
+}
+  
+.menu {
+  display: flex;
+  list-style: none;
+  color: blue;
+  font-family: 'Manrope', sans-serif;
+  padding: 10px 30px;
+  border-radius: 9px;
+  font-weight: bold;
+  transition: all 0.3s ease-in-out;
+  margin: 0;
+}
+  
+.item-menu {
+  margin: 0 10px;
+  font-size: 1.3rem;
+  cursor: pointer;
+}
+
